@@ -1,4 +1,4 @@
-# Understanding User-Agent Testing: A Beginner's Guide
+# Understanding User-Agent Testing: For Offensive Hacking
 
 ## What is a User-Agent?
 
